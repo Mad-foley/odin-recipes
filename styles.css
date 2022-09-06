@@ -1,0 +1,16 @@
+body {
+  background-color: tan;
+  font-family: Helvetica, sans-serif;
+  color: rgb(129, 81, 18);
+}
+ul, ol{
+  color: rgb(58, 42, 7);
+  font-weight: 600;
+}
+h1, h3 {
+  color: rgba(73, 53, 17, 0.767);
+}
+img {
+  height: auto;
+  width: 300px;
+}
