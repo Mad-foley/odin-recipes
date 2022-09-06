@@ -1,4 +1,11 @@
 # odin-recipes
-Odin Project tutorial
+Odin Project
 
-Creating my own recipe website using HTML. Will edit what I have done at end.
+Creating my own recipe website using HTML. First project.
+
+Skills practiced:
+-formatting a basic website using only html
+-utlizing anchors to create hyperlinks
+-adding images and adjusting their size
+-practicing lists, paragraphs, emphasis, and other elements
+-practicing git commits and good project practices
